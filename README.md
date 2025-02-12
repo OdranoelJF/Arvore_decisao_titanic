@@ -59,8 +59,6 @@ O projeto inclui:
 🔹 Testar outros modelos, como Random Forest ou XGBoost, para melhorar o desempenho.
 
 ##  🎯 Contribuição
-Se quiser contribuir, fique à vontade para abrir um Pull Request ou sugerir melhorias. 😃
-
-## 💡 Feito com ❤️ por @engdalevedove 🚀
+Se quiser contribuir, fique à vontade para abrir um Pull Request ou sugerir melhorias. 
 
 

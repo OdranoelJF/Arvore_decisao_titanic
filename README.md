@@ -5,7 +5,7 @@ Este repositório contém um modelo de **Machine Learning** que utiliza uma **Á
 ## 📌 Sobre o Projeto
 O projeto inclui:
 
-### 📊 **Carregamento e Tratamento de Dados**
+### **Carregamento e Tratamento de Dados**
 ✔ Carrega o dataset Titanic 
 ✔ Trata valores nulos (`Age` com a média, remove `Embarked` nulo)  
 ✔ Converte variáveis categóricas em números   
@@ -36,7 +36,7 @@ O projeto inclui:
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 1. **Instale as Dependencias:**
    ```bash
